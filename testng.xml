@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="headless.phantomjs.headless.phantomjs.initTest"/>
+      <class name="headless.phantomjs.headless.phantomjs.testHeadless"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

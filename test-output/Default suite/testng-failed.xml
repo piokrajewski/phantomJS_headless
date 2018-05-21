@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="headless.phantomjs.headless.phantomjs.initTest">
+      <class name="headless.phantomjs.headless.phantomjs.testHeadless">
         <methods>
-          <include name="test"/>
+          <include name="test12"/>
         </methods>
-      </class> <!-- headless.phantomjs.headless.phantomjs.initTest -->
+      </class> <!-- headless.phantomjs.headless.phantomjs.testHeadless -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
